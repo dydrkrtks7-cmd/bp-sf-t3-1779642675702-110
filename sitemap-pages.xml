@@ -16,6 +16,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://sinchon-nightlife-note.fx-torihiki.space/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sinchon-nightlife-note.fx-torihiki.space/posts/gemini-coverage-20260705-226.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -57,11 +62,6 @@
   </url>
   <url>
     <loc>https://sinchon-nightlife-note.fx-torihiki.space/posts/t3link-001-3h4pm6.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sinchon-nightlife-note.fx-torihiki.space/posts.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
